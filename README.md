@@ -33,3 +33,7 @@ line-height: 1.75rem; /* 28px */
 
 hover:space-x-8 : onhover style apply
 md:space-x-8 : for tablet views
+
+
+functions and directives
+https://tailwindcss.com/docs/functions-and-directives
